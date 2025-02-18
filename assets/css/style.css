@@ -3,6 +3,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 
+/* Navbar */
+#navbar {
+    background-color: var(--primary-color);
+    
+}
+
+#navbarlogo {
+    width: 30px;
+}
+
 /* CSS Variables */
 :root {
     --primary-font: 'Inter', sans-serif;
@@ -27,4 +37,5 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
+
 
