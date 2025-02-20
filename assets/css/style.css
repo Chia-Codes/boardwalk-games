@@ -67,8 +67,6 @@ h2 {
     color: white
 }
 
-
-
 /* Navbar */
 
 #navbar {
@@ -84,6 +82,10 @@ h2 {
 #header .lead {
     font-family: var(--secondary-font);
 }
+
+/* Forms */
+
+
 
 /* Services */
 
